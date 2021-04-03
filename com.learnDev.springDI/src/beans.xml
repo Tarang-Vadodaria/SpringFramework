@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+         http://www.springframework.org/schema/beans/spring-beans.xsd">
+         
+         
+		<bean id = "StudybookRef" class="com.learnDev.springDI.Studybook"></bean>
+		
+		<bean id = "stud1" class ="com.learnDev.springDI.Student">
+		<property name = "book2" ref= "StudybookRef">
+		<!-- <bean class="com.learnDev.springDI.Studybook"></bean>-->
+		</property>
+		</bean>
+		
+		<bean id = "stud2" class ="com.learnDev.springDI.anotherStudent">
+		<property name = "book1" ref = "StudybookRef">
+		<!--<bean class="com.learnDev.springDI.Studybook"></bean>-->
+		</property>
+		</bean>
+		
+		</beans>
