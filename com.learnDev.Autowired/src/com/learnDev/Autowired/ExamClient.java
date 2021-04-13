@@ -8,7 +8,7 @@ public class ExamClient {
 	public static void main(String[] args) {
 		
 		ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
-		Student Student1 = context.getBean("Student1", Student.class);
+		Student Student1 = (Student) context.getBean("Student1", Student.class);
 		Student1.startCopying();
 		
 	}

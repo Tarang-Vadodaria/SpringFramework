@@ -11,6 +11,7 @@
         	http://www.springframework.org/schema/context/spring-context.xsd">
          
          <context:annotation-config></context:annotation-config>
+         
          <bean id ="mathCheatRef" class = "com.learnDev.Autowired.Mathcheat">
          <property name="Subject" value = "Maths"></property>
          </bean>
