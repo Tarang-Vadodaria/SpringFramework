@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-aop-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-aspects-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-beans-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-context-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-context-indexer-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-context-support-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-core-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-expression-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-instrument-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-jcl-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-jdbc-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-jms-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-messaging-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-orm-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-oxm-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-test-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-tx-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-web-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-webflux-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-webmvc-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/spring-framework-5.0.5.RELEASE/libs/RELEASE/spring-websocket-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/taran/eclipse-workspace/SpringFramework/ReferenceJAR/mysql-connector-java-8.0.23/mysql-connector-java-8.0.23/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
