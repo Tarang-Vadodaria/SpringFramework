@@ -13,7 +13,7 @@ public  ArrayList<FoodPOJO> connect() throws ClassNotFoundException {
 	 String connURL = "jdbc:mysql://localhost:3306";
 	 String DbName = "mySchema";
 	 String Username = "root";
-	 String Password ="*********";
+	 String Password ="root123456";
 	 
 	 try {
 
